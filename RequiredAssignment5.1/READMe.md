@@ -1,5 +1,5 @@
 Project Report: Customer Coupon Acceptance Analysis
-Link to Notebook: [[Insert Your GitHub Notebook URL Here](https://github.com/MichaelNguyenz229/RequiredAssignments/blob/main/RequiredAssignment5.1/assignment5_1_starter/prompt.ipynb)]
+Link to Notebook: [[Required Assignment 5.1](https://github.com/MichaelNguyenz229/RequiredAssignments/blob/main/RequiredAssignment5.1/assignment5_1_starter/prompt.ipynb)]
 1. The Business Problem
 The goal of this analysis was to determine the characteristics of drivers who are most likely to accept a coupon (labeled as 'Y=1') versus those who reject it ('Y=0'). By understanding these differences, the dealership can ensure coupons are delivered to the right people at the right time.
 2. Highlights: Who Accepts vs. Who Rejects?
