@@ -54,7 +54,7 @@ To maximize profit margins, the dealership should:
 ## Repository Structure
 *   `data/`: Contains the dataset (if applicable/allowed).
 *   `images/`: Saved visualizations from the analysis.
-*   `prompt_II.ipynb`: The Jupyter Notebook containing the full analysis and code. [View Notebook Here](RequiredAssignment11.1/assignment11_1_starter/prompt_II.ipynb)
+*   `prompt_II.ipynb`: The Jupyter Notebook containing the full analysis and code. [View Notebook Here](assignment11_1_starter/prompt_II.ipynb)
 
 ---
 *Author: Michael Nguyen*
