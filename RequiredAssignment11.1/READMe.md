@@ -57,5 +57,5 @@ To maximize profit margins, the dealership should:
 *   `prompt_II.ipynb`: The Jupyter Notebook containing the full analysis and code. [View Notebook Here](prompt_II.ipynb)
 
 ---
-*Author: [Your Name]*
-*Date: [Current Date]*
+*Author: Michael Nguyen*
+*Date: 1/4/2026*
