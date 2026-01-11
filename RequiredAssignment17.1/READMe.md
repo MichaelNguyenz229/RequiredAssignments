@@ -90,7 +90,7 @@ To maximize campaign ROI, the marketing team should:
 ## Repository Structure
 
 - `data/`: Contains the bank marketing dataset (bank-additional-full.csv).
-- `prompt_III.ipynb`: The Jupyter Notebook containing the full analysis and code. [View Notebook Here](RequiredAssignment17.1/assignment17_1_starter/prompt_III.ipynb)
+- `prompt_III.ipynb`: The Jupyter Notebook containing the full analysis and code. [View Notebook Here](assignment17_1_starter/prompt_III.ipynb)
 - `README.md`: This file.
 
 ---
